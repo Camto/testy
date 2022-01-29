@@ -9870,41 +9870,49 @@ text = "Congrats you found this!"
 scroll_active = false
 
 [node name="RichTextLabel3" type="RichTextLabel" parent="Text"]
-margin_left = -1250.0
+margin_left = -1260.0
 margin_top = -3930.0
-margin_right = -1190.0
+margin_right = -1170.0
 margin_bottom = -3910.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Oh hello."
 scroll_active = false
 
 [node name="RichTextLabel4" type="RichTextLabel" parent="Text"]
 margin_left = 7340.0
 margin_top = -1740.0
-margin_right = 7490.0
-margin_bottom = -1720.0
+margin_right = 7560.0
+margin_bottom = -1710.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "So how are you doing?"
 scroll_active = false
 
 [node name="RichTextLabel5" type="RichTextLabel" parent="Text"]
-margin_left = 3220.0
+margin_left = 3180.0
 margin_top = -1900.0
 margin_right = 3330.0
 margin_bottom = -1880.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "You're still here."
 scroll_active = false
 
 [node name="RichTextLabel2" type="RichTextLabel" parent="Text"]
 margin_left = -2930.0
 margin_top = 360.0
-margin_right = -2750.0
-margin_bottom = 380.0
+margin_right = -2680.0
+margin_bottom = 390.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Hello. You are good at this."
 scroll_active = false
 
 [node name="RichTextLabel7" type="RichTextLabel" parent="Text"]
 margin_left = 400.0
 margin_top = 220.0
-margin_right = 620.0
+margin_right = 610.0
 margin_bottom = 310.0
 custom_fonts/normal_font = ExtResource( 12 )
 custom_colors/default_color = Color( 0, 0, 0, 1 )
@@ -9912,10 +9920,12 @@ text = "Press the left and right arrows to move."
 scroll_active = false
 
 [node name="RichTextLabel8" type="RichTextLabel" parent="Text"]
-margin_left = 4470.0
+margin_left = 4460.0
 margin_top = -7700.0
-margin_right = 4530.0
+margin_right = 4540.0
 margin_bottom = -7680.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "You win!"
 scroll_active = false
 
@@ -9924,10 +9934,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Refresher Tip"]
 visible = false
-margin_left = 6670.0
+margin_left = 6640.0
 margin_top = 180.0
-margin_right = 6790.0
-margin_bottom = 200.0
+margin_right = 6820.0
+margin_bottom = 210.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Try jumping again."
 scroll_active = false
 
@@ -9940,10 +9952,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip"]
 visible = false
-margin_left = 690.0
+margin_left = 670.0
 margin_top = 280.0
-margin_right = 830.0
-margin_bottom = 330.0
+margin_right = 850.0
+margin_bottom = 360.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Press up or spacebar to jump."
 scroll_active = false
 
@@ -9956,10 +9970,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip10"]
 visible = false
-margin_left = -6540.0
+margin_left = -6570.0
 margin_top = -5800.0
-margin_right = -6410.0
+margin_right = -6380.0
 margin_bottom = -5780.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Couldn't hurt to try."
 scroll_active = false
 
@@ -9972,10 +9988,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip11"]
 visible = false
-margin_left = -6510.0
+margin_left = -6520.0
 margin_top = -6250.0
-margin_right = -6450.0
+margin_right = -6430.0
 margin_bottom = -6230.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Oh okay."
 scroll_active = false
 
@@ -9988,10 +10006,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip2"]
 visible = false
-margin_left = 970.0
+margin_left = 940.0
 margin_top = 210.0
-margin_right = 1090.0
-margin_bottom = 260.0
+margin_right = 1120.0
+margin_bottom = 240.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "You have 2 jumps."
 scroll_active = false
 
@@ -10004,10 +10024,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip3"]
 visible = false
-margin_left = 1310.0
-margin_top = 440.0
-margin_right = 1440.0
-margin_bottom = 470.0
+margin_left = 1280.0
+margin_top = 460.0
+margin_right = 1470.0
+margin_bottom = 510.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Wall jump to reach greater heights!"
 scroll_active = false
 
@@ -10020,10 +10042,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip4"]
 visible = false
-margin_left = 1500.0
+margin_left = 1480.0
 margin_top = 250.0
-margin_right = 1590.0
+margin_right = 1620.0
 margin_bottom = 270.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "A checkpoint."
 scroll_active = false
 
@@ -10036,10 +10060,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip5"]
 visible = false
-margin_left = 1320.0
+margin_left = 1310.0
 margin_top = 300.0
-margin_right = 1490.0
-margin_bottom = 380.0
+margin_right = 1480.0
+margin_bottom = 390.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "BOTH jumps get regenerated once you touch the floor or a wall."
 scroll_active = false
 
@@ -10054,8 +10080,10 @@ script = ExtResource( 13 )
 visible = false
 margin_left = -4240.0
 margin_top = -7140.0
-margin_right = -4200.0
+margin_right = -4190.0
 margin_bottom = -7120.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Nice."
 scroll_active = false
 
@@ -10068,10 +10096,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip6"]
 visible = false
-margin_left = 1690.0
+margin_left = 1660.0
 margin_top = 240.0
 margin_right = 1860.0
-margin_bottom = 320.0
+margin_bottom = 270.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Be careful of spikes."
 scroll_active = false
 
@@ -10085,9 +10115,11 @@ script = ExtResource( 13 )
 [node name="Text" type="RichTextLabel" parent="Text/Tip9"]
 visible = false
 margin_left = 2860.0
-margin_top = -1240.0
-margin_right = 3080.0
-margin_bottom = -1190.0
+margin_top = -1280.0
+margin_right = 3160.0
+margin_bottom = -1210.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "You can \"triple jump\" by jumping into the sparkling Refresher from underneath close to it."
 scroll_active = false
 
@@ -10101,9 +10133,11 @@ script = ExtResource( 13 )
 [node name="Text" type="RichTextLabel" parent="Text/Tip7"]
 visible = false
 margin_left = 5100.0
-margin_top = 340.0
-margin_right = 5260.0
+margin_top = 320.0
+margin_right = 5340.0
 margin_bottom = 390.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "You can still jump twice after walking off a ledge or sliding off a wall."
 scroll_active = false
 
@@ -10116,10 +10150,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip8"]
 visible = false
-margin_left = 6470.0
-margin_top = 240.0
-margin_right = 6710.0
-margin_bottom = 260.0
+margin_left = 6490.0
+margin_top = 230.0
+margin_right = 6700.0
+margin_bottom = 280.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "What happens when you touch that?"
 scroll_active = false
 
@@ -10132,10 +10168,12 @@ script = ExtResource( 13 )
 
 [node name="Text" type="RichTextLabel" parent="Text/Tip12"]
 visible = false
-margin_left = 7580.0
-margin_top = 20.0
-margin_right = 7750.0
-margin_bottom = 50.0
+margin_left = 7540.0
+margin_top = 10.0
+margin_right = 7800.0
+margin_bottom = 60.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "You can walk off the ledge even with a spike there."
 scroll_active = false
 
@@ -10150,8 +10188,10 @@ script = ExtResource( 13 )
 visible = false
 margin_left = 6710.0
 margin_top = 30.0
-margin_right = 6750.0
+margin_right = 6760.0
 margin_bottom = 50.0
+custom_fonts/normal_font = ExtResource( 12 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
 text = "Neat."
 scroll_active = false
 
